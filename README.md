@@ -1,0 +1,2 @@
+# SpauldingRidge
+Technical Assignment 
